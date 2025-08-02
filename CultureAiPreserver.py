@@ -1,4 +1,4 @@
-# 🌍 AI-Generated World Cultures Preservation System - Humanized Prototype
+#  AI-Generated World Cultures Preservation System - Humanized Prototype
 
 """
 This user-friendly app helps preserve cultural heritage by:
